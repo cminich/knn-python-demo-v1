@@ -12,7 +12,7 @@
 
 app.background = 'lightGray'
 
-# Categories                 0        1        2
+# Categories         0        1        2
 app.categories = ['Soda', 'Juice', 'Coffee']
 
 # Colors
