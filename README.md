@@ -99,14 +99,14 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 **Curt Minich**  
 Veteran Computer Science Teacher | Adjunct Professor | AI/ML Educator
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Website: [minich.com](https://minich.com) *(if applicable)*
+- GitHub: [@yourusername](https://github.com/cminich)
+- Website: [minich.com](https://minich.com) 
 
 ---
 
 ## 🧠 Related Projects
 
-- [kNN Java Demo (Coming Soon)](https://github.com/yourusername/knn-java-demo)
-- [kNN C++ Demo (Coming Soon)](https://github.com/yourusername/knn-cpp-demo)
+- [kNN Java Demo (Coming Soon)](https://github.com/cminich/knn-java-demo)
+- [kNN C++ Demo (Coming Soon)](https://github.com/cminich/knn-cpp-demo)
 
 ---
